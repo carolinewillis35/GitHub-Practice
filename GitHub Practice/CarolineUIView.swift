@@ -11,6 +11,7 @@ struct CarolineUIView: View {
     var body: some View {
         Text("Caroline")
         Text("Willis")
+        Text("Caro")
     
     }
     
