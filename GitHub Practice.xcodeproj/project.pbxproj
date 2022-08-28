@@ -15,6 +15,7 @@
 		988653C828BC15680045DC09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 988653C628BC15680045DC09 /* LaunchScreen.storyboard */; };
 		988653D328BC15680045DC09 /* GitHub_PracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 988653D228BC15680045DC09 /* GitHub_PracticeTests.swift */; };
 		988653DE28BC15680045DC09 /* GitHub_PracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 988653DD28BC15680045DC09 /* GitHub_PracticeUITests.swift */; };
+		988653EC28BC17E20045DC09 /* CarolineUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 988653EB28BC17E20045DC09 /* CarolineUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		988653D928BC15680045DC09 /* GitHub PracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GitHub PracticeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		988653DD28BC15680045DC09 /* GitHub_PracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHub_PracticeUITests.swift; sourceTree = "<group>"; };
 		988653DF28BC15680045DC09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		988653EB28BC17E20045DC09 /* CarolineUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarolineUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				988653C428BC15680045DC09 /* Assets.xcassets */,
 				988653C628BC15680045DC09 /* LaunchScreen.storyboard */,
 				988653C928BC15680045DC09 /* Info.plist */,
+				988653EB28BC17E20045DC09 /* CarolineUIView.swift */,
 			);
 			path = "GitHub Practice";
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				988653C028BC15660045DC09 /* CarolinesController.swift in Sources */,
 				988653BC28BC15660045DC09 /* AppDelegate.swift in Sources */,
+				988653EC28BC17E20045DC09 /* CarolineUIView.swift in Sources */,
 				988653BE28BC15660045DC09 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
