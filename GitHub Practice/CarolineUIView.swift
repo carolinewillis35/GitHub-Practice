@@ -10,7 +10,12 @@ import SwiftUI
 struct CarolineUIView: View {
     var body: some View {
         Text("Caroline")
+        Text("Willis")
+        Text("Caro")
+    
     }
+    
+    
 }
 
 struct SwiftUIView_Previews: PreviewProvider {
